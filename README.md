@@ -1,0 +1,1 @@
+Designed and configured an intelligent budget management agent using AWS Bedrock and Guardrails. Integrated Responsible AI practices, ensuring ethical agent behavior, compliance, and tone control. Successfully tested agent decision-making on financial planning tasks and edge cases, earning outstanding review feedback for excellence in AI design and governance.
